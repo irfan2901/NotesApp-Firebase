@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id">1:124297676738:android:44f7b8e6c1d6665953b85b</string>
+    <string name="project_id">fir-notes-642ba</string>
+    <string name="firebase_database_url">https://fir-notes-642ba.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">124297676738</string>
+    <string name="google_api_key">AIzaSyDZtHzkh9SsIa7rW5IRn59zB4xy1Wx4ytA</string>
+    <string name="google_crash_reporting_api_key"></string>
+    <string name="firebase_storage_bucket">fir-notes-642ba.appspot.com</string>
+</resources>
